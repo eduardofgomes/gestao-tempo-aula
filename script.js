@@ -12,5 +12,6 @@ button.addEventListener("click", function(e) {
         document.querySelector("#title2").textContent = "Simple and quick to use"
         document.querySelector("#text-introdution2").textContent = "Our product integrates with SIGA data, automating the linking of teacher data between SIGA and GTA. It has a simple design, well-described functionalities and offers a comfortable experience for all users. It also includes functions that help with the administration of idle rooms and laboratories in the institution."
         document.querySelector("#designed-by").textContent = "Designed by"
+        document.querySelector(".about").textContent = "Discover more"
     }
 })
