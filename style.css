@@ -6,7 +6,15 @@ body {
 }
 
 .bg-navbar {
-    background-color: #4c8434;
+    background-color: black;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+text-white {
+    color: #fff;
 }
 
 .navbar {
@@ -20,5 +28,9 @@ body {
 }
 
 #content {
-    margin-top: 10rem;
+    margin-top: 6rem;
+}
+
+#first-section {
+    
 }
