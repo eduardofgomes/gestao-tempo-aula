@@ -76,9 +76,23 @@ a.link-footer:hover {
 }
 
 #img-banner {
-    width: 15rem;
+    width: 18rem;
 }
 
 #img-container {
     text-align: center;
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.bg-gray:hover {
+    transform: scale(1.03);
+}
+
+#img-banner2 {
+    width: 20rem;
+    float: left;
+    margin-right: 1rem;
 }
