@@ -1,12 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-    padding-top: 56px;
+    padding-top: 55px;
     font-family: Arial, sans-serif;
 }
 
 .bg-navbar {
-    background-color: black;
+    background-color: #fff;
 }
 
 .bg-black {
@@ -18,7 +18,7 @@ text-white {
 }
 
 .navbar {
-    height: 10rem;
+    height: 9rem;
 }
 
 .navbar-brand {
@@ -28,9 +28,9 @@ text-white {
 }
 
 #content {
-    margin-top: 6rem;
+    margin-top: 5rem;
 }
 
 #first-section {
-    
+
 }
