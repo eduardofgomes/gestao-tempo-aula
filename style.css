@@ -34,3 +34,40 @@ text-white {
 #first-section {
 
 }
+
+footer {
+    background-color: black;
+    font-size: medium;
+    padding: 30px;
+}
+
+footer .right {
+    text-align: right;
+}
+
+footer .left {
+    text-align: left;
+}
+
+.footer-inline {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.link-footer {
+    font-size: x-small;
+}
+
+a.link-footer:link {
+    font-size: x-small;
+    text-decoration: none;
+}
+
+a.link-footer:hover {
+    text-decoration: underline;
+    color: #fff;
+}
