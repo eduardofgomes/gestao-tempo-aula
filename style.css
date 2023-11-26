@@ -15,18 +15,18 @@ body {
     background-color: black;
 }
 
+#theme{
+    font-size: 2rem
+}
+
 text-white {
     color: #fff;
 }
 
 .navbar {
     height: 5rem;
-}
-
-.navbar-brand {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-between;
 }
 
 #content {
@@ -76,6 +76,9 @@ a.link-footer:hover {
 }
 
 #img-banner {
-    width: 20rem;
-    margin-left: 10rem;
+    width: 15rem;
+}
+
+#img-container {
+    text-align: center;
 }
