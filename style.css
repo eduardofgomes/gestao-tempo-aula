@@ -13,12 +13,36 @@ body {
 
 .bg-black {
     background-color: black;
-    transition: filter 0.3s ease;
+    transition: filter 0.5s ease;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+}
+
+.about {
+    border: none;
+    background-color: gray;
+    border-radius: 10px;
+    transition: background-color 0.5s ease;
+}
+
+.about:hover {
+    background-color: #555;
 }
 
 .bg-gray {
     background-color: gray;
-    transition: filter 0.3s ease;
+    transition: filter 0.5s ease;
 }
 
 .containter-fluid1:hover {
