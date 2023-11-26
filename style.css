@@ -20,7 +20,7 @@ text-white {
 }
 
 .navbar {
-    height: 9rem;
+    height: 5rem;
 }
 
 .navbar-brand {
@@ -30,7 +30,7 @@ text-white {
 }
 
 #content {
-    margin-top: 5rem;
+    margin-top: 2rem;
 }
 
 footer {
